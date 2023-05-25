@@ -3,6 +3,6 @@
 - Connect to POWER!!! 
 - Listen to music
 
-Button work like +/- volume, and play/stop music
+Buttons work like +/- volume, and play/stop music
 
 after 75 % of the volume there are squeaks 
